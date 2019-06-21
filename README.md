@@ -18,15 +18,6 @@
 
 - Tabu search has the flexibility to overcome local minimum so this is why we expect to be the beter strategy. In the next two images we can see the initial greedy solution graphicxally represented and the final solution the came from Tabu search. 
 
-# Solution Images
-
-Initial greedy solution. We can see that we have many cross edges (edges that are crossed) and are indications that better solutions exist.
-
-![alt text](https://github.com/Rakeshpavan333/daa_pro/blob/master/GS.png)
-
-Final solution from TabU search where most of the cross edges have been eliminated.
-
-![alt text](https://github.com/Rakeshpavan333/daa_pro/blob/master/TS.png)
 
 # Presentation
 The Presentation PDF is available here :
