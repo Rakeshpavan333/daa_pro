@@ -1,16 +1,7 @@
 # Tabu Heuristics for Capacitated Vehicle Routing
 
-- IT252 Desgin And Analysis of Algorithms (DAA) course project: Vehicle Routing Problem or simply VRP is a well known combinatorial optimization problem and a generalization of the travelling salesman problem. A definition of the problem is this: We have a number of customers that have a demand for a delivery. Which are the optimal (minimal) routes for a fleet of vehicles starting from a single point (depot) to deliver the requested goods in all customers. Finding optimal solution is a NP-hard problem so heurestic strategies are proposed for approximation of the optimal solution.
+- IT252 Desgin And Analysis of Algorithms (DAA) course project: Vehicle Routing Problem or simply VRP is a well known combinatorial optimization problem and a generalization of the travelling salesman problem. Finding optimal solution is a NP-hard problem so heurestic strategies are proposed for approximation of the optimal solution.
 - For more about the problem see: https://en.wikipedia.org/wiki/Vehicle_routing_problem
-
-# Usage
-
-- The implementation is in Java. The code itself is in a single class named "VRP.java". A greedy solution was calculated at first and then three heuristic strategies where tested against it. 
-- Intra route where a customer can be reassigned in a different position in the same route, inter route where a customer can be reassigned in another position in the all vehicle routes and Tabu search where we keep selecting the best neighboor solution even if it it is worst than the current solution for a number of iterations.
-
-# Output
-
-- This code prints the solution from each strategy in console and creates 4 png images for all solutions (Greedy, IntraRoute, InterRoute, Tabu) and 3 files for the evolution in solution costs for the heuristics algorithms. 
 
 # Analysis
 
