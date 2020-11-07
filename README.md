@@ -11,7 +11,7 @@
 
 
 # Presentation
-The Presentation PDF is available here : https://github.com/Rakeshpavan333/daa_pro/blob/master/daa_pro.pdf
+The Presentation PDF is available here : https://rakeshpavan333.github.io/docs/daa_pro.pdf
 
 # Team
 
