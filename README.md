@@ -11,7 +11,7 @@
 
 - Tabu search has the flexibility to overcome local minimum so this is why we expect to be the beter strategy. In the next two images we visualize the greedy solution and the solution using Tabu search. 
 
-Solution from Greedy search:
+Solution using Greedy approach:
 ![Alt Text](GS.png)
 
 Solution using Tabu-meta heuristic:
