@@ -19,7 +19,7 @@ Solution using Tabu-meta heuristic:
 # Presentation
 The Presentation PDF is available here : https://rakeshpavan333.github.io/docs/daa_pro.pdf
 
-# Team
+# COntributors
 
 - Rakesh Pavan (17IT154)
 - Dhruvik Navadiya (17IT225)
