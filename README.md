@@ -1,7 +1,9 @@
 # Tabu Heuristics for Capacitated Vehicle Routing
 
 - IT252 Desgin And Analysis of Algorithms (DAA) course project: Vehicle Routing Problem or simply VRP is a well known combinatorial optimization problem and a generalization of the travelling salesman problem. Finding optimal solution is a NP-hard problem so heurestic strategies are proposed for approximation of the optimal solution.
-- For more about the problem see: https://en.wikipedia.org/wiki/Vehicle_routing_problem
+- Capacitated VRP is a special type of VRP. 
+
+- For more details on the problem see: https://en.wikipedia.org/wiki/Vehicle_routing_problem
 
 # Analysis
 
@@ -19,7 +21,7 @@ Solution using Tabu-meta heuristic:
 # Presentation
 The Presentation PDF is available here : https://rakeshpavan333.github.io/docs/daa_pro.pdf
 
-# COntributors
+# Contributors
 
 - Rakesh Pavan (17IT154)
 - Dhruvik Navadiya (17IT225)
