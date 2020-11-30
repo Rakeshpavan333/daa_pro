@@ -7,7 +7,13 @@
 
 - Tabu search has the best perfomance; for an instance of the problem where we had 30 random placed customers and 10 vehicles: Greedy solution was 793 distance units (du), Intra Route Heuristic Algorithm gave 761 du , Inter Route 644 du amd finally Tabu Search gave 637 du after 200 iterations. 
 
-- Tabu search has the flexibility to overcome local minimum so this is why we expect to be the beter strategy. In the next two images we can see the initial greedy solution graphicxally represented and the final solution the came from Tabu search. 
+- Tabu search has the flexibility to overcome local minimum so this is why we expect to be the beter strategy. In the next two images we visualize the greedy solution and the solution using Tabu search. 
+
+Solution from Greedy search:
+![Alt Text](GS.png)
+
+Solution using Tabu-meta heuristic:
+![Alt Text](TS.png)
 
 
 # Presentation
